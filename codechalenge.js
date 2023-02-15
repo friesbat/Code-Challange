@@ -1,5 +1,5 @@
 
-//let me try it in js
+//let me try it in js 
 let delivery_route_optimization= function(buildings, start_Building){
 
     // Generate all possible permutations of the buildings
@@ -47,7 +47,7 @@ let delivery_route_optimization= function(buildings, start_Building){
     return shortest_route;
       }
     }
-    //testing the fnction here 
+    //testing the fnction here is test cases
     var buildings = ['a', 'b', 'c', 'd'];
 
 console.log(getPermutations(buildings, 4));
